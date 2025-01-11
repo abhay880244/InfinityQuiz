@@ -82,17 +82,17 @@ Here are some glimpses of Infinity Quiz in action:
 
 📂 InfinityQuiz
 
-├── 📁 data         // Data layer (Retrofit, Room)
+├── 📁 composable         // Compose UI components 
 
-├── 📁 di           // Dependency Injection setup
+├── 📁 db           // Data layer (Room)
 
-├── 📁 ui           // Compose UI components
+├── 📁 model           // Data models for network
 
-├── 📁 viewmodel    // MVVM ViewModels
+├── 📁 network    // Data layer (Retrofit) 
 
-├── 📁 utils        // Utility classes and extensions
+├── 📁 repository        // MVVM Repository
 
-└── 📁 navigation   // Compose Navigation setup
+└── 📁 viewmodel   // MVVM ViewModels
 
 
 ## 🌟 Highlights
